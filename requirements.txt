@@ -1,0 +1,5 @@
+mss==7.0.1
+psutil==5.9.4
+pyperclip==1.8.2
+python_telegram_bot==20.0
+telegram==0.0.1
